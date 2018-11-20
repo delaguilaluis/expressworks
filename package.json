@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/azat-co/expressworks/issues"
   },
-  "bin": "./expressworks.js",
+  "bin": "./bin/expressworks.js",
   "preferGlobal": true,
   "dependencies": {
     "body-parser": "^1.12.0",
